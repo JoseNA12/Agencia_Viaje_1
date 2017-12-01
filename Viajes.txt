@@ -1,0 +1,14 @@
+25;Costa Rica;Dubai;06/Mayo;08/Mayo;900000;56
+37;Panama;Estados Unidos;25/Octubre;26/Octubre;300000;39
+89;Francia;Costa Rica;07/Junio;08/Junio;500000;60
+13;China;Estados Unidos;20/Marzo;23/Marzo;700000;50
+56;Nicaragua;Estados Unidos;04/Febrero;05/Febrero;300000;60
+37;Chile;Estados Unidos;12/Octubre;14/Octubre;600000;50
+34;Italia;Costa Rica;25/Diciembre;27/Diciembre;650000;52
+13;Argentina;Estados Unidos;20/Julio;23/Julio;400000;57
+05;Estados Unidos;Costa Rica;06/Agosto;07/Agosto;400000;50
+25;Francia;Dubai;06/Abril;08/Abril;500000;54
+56;El Salvador;Estados Unidos;04/Setiembre;05/Setiembre;400000;45
+45;Londres;Costa Rica;27/Junio;30/Junio;350000;12
+89;Mexico;Costa Rica;28/Junio;30/Junio;350000;65
+93;Costa Rica;China;12/Marzo;25/Marzo;350000;20
